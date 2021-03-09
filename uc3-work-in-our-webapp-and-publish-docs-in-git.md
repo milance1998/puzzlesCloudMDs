@@ -7,7 +7,7 @@ layout: docs
 In this section we will explain the workflow on how you can work in our Webapp and publish docs in Git. 
 The workflow is outlined in the following UML diagram:
 
-<!---
+
 @startuml
 skinparam sequence {
 ArrowColor DodgerBlue
@@ -72,4 +72,3 @@ end
 preview: https://www.planttext.com/
 -->
 
-![Work in our Webapp and Publish Docs in Git](/images/work-in-our-app-and-publish-in-git.png "Work in our Webapp and Publish Docs in Git")
