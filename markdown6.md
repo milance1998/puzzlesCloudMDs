@@ -1,5 +1,4 @@
 
-
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
@@ -71,7 +70,30 @@ Ordered
 
 
 1. You can use sequential numbers...
+2. ...or keep all the numbers as `1.`
+
+
+asghdkaskdhkasjdhasd
+
+
+1. Lorem ipsum dolor sit amet
+1. Consectetur adipiscing elit
+1. Integer molestie lorem at massa
+
+
+1. You can use sequential numbers...
 1. ...or keep all the numbers as `1.`
+
+
+asdasdasdsa
+
+12. Lorem ipsum dolor sit amet
+13. Consectetur adipiscing elit
+14. Integer molestie lorem at massa
+
+
+80. You can use sequential numbers...
+12. ...or keep all the numbers as `1.`
 
 Start numbering with offset:
 
