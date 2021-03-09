@@ -89,7 +89,7 @@ end
 preview: https://www.planttext.com/
 -->
 
-![Work in GIT and produce DOCX & PDF](/images/work-in-git-produce-docx-pdf.png "Work in GIT and produce DOCX & PDF")
+![Work in GIT and produce DOCX & PDF](images/work-in-git-produce-docx-pdf.png "Work in GIT and produce DOCX & PDF")
 
 1. Register (if not already done) and login to our application
 2. Import a Git project where you have MarkDown based documentation.
