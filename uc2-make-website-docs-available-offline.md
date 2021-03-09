@@ -88,7 +88,8 @@ group Git User workflow
 preview: https://www.planttext.com/
 -->
 
-![Work in GIT and produce DOCX & PDF](/images/make-website-docs-available-offline.png "Work in GIT and produce DOCX & PDF")
+
+![test](adventure-1846482.jpg "tester")
 
 1. Register (if not already done) and login to our application
 2. Import a Git project where you have MarkDown based documentation.
