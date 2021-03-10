@@ -1,3 +1,5 @@
+# heading 1 and the table under it
+
 | Option | Description |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
