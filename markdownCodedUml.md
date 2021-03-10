@@ -1,4 +1,4 @@
----------------------------------------
+---
 In this section we will explain the workflow on how you can work in our Webapp and publish docs in Git. 
 The workflow is outlined in the following UML diagram:
 
