@@ -1,12 +1,3 @@
-# This is md file with coded UML diagram
-
----
-title: UC3 Work in our App and Publish Docs in GIT
-weight: 3
-layout: docs
----
-## This is first uml
-
 In this section we will explain the workflow on how you can work in our Webapp and publish docs in Git. 
 The workflow is outlined in the following UML diagram:
 
