@@ -1,10 +1,12 @@
-# heading 1 and the table under it
+
 
 | Option | Description |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
+
+
 In this section we will explain the workflow on how you can work in our Webapp and publish docs in Git. 
 The workflow is outlined in the following UML diagram:
 
