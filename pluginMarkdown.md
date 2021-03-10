@@ -1,6 +1,3 @@
-# this is heading 1
-
-
 ---
 __Advertisement :)__
 
