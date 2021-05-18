@@ -71,6 +71,6 @@ Here you go: `АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТУФХЦЧЏШ`
 
 
 
-[![YOUTUBE VIDEO](https://i0.wp.com/lifelegaldefensefoundation.org/wp-content/uploads/2016/04/youtube-video-play-icon.png?ssl=1)](https://media.tenor.com/images/d92add9928fcfe998db445324734b449/tenor.gif)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://media.tenor.com/images/d92add9928fcfe998db445324734b449/tenor.gif)
 
  ---
