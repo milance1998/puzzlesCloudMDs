@@ -1,0 +1,104 @@
+Not implemented:
+	- 7.1 Template document variables - option exist under `Save` dropdown menu
+	- 8.1 Download file - option exist under `Save` dropdown menu
+	- Styles in document preview of ToC
+
+
+
+
+
+
+ToC View | ToC section:
+	ToC section:
+	
+2.1 and 2.2 Add new chapter:
+
+	-there is no "+"(new chapter) option if document root doesnt contains any of .md structures
+
+	-if there is (on the right side) already drag and dropped ONE markdown file, "+" exist only above markdown structure, but not below
+	
+	-if there is (on the right side) already drag and dropped TWO OR MORE markdown files, "+" exist only above and between markdown structures but not below the last one
+	
+	-adding new chapter on "+" is possible by click on fist from top "+" if there is TWO OR MORE drag and dropped md files
+	
+	-adding new chapter, providing the heading text and click outside of the input field doesn't work as expected
+	(expected: When user adds text and clicks outside field then that state will be saved.)
+	
+3.1 Delete chapter:
+	-dropdown with `Delete`, `Edit` and `View` options should be displayed onmouseover action, currently it's on click???
+	
+	-it's not possible to delete chapter that is opened for editing
+
+4.1 Edit chapter
+	-Editing chapter name cant be provided by clicking on some other place outside of the input field
+	
+	-Click on EDIT icon (pen) do not open chapter input field with option to change text of it, it only work if its clicked on "EDIT" text.
+	
+	
+	
+5.1 Preview chapter - TODO - djole kaze da treba stilovi da se dodaju - contact Djole
+
+6.1 Save file
+
+	-make 'Save' button fixed to the top right corner of the Document root(right side)
+	
+7.1 Template document variables - not configured yet - will be configured
+
+8.1 Download file - not configured yet - will be
+
+9.2 Push files modal 
+	- There is no popup with linked text "view" that will open git repository where files are pushed
+
+11.1 Button 3 dots (...) and tooltips
+	-button 3 dots (...) is always displayed, it should be as its defined: 3 dots button will appear on hover
+	
+	-tooltip currently displaying name of hovered chapter with md mark, but it should display name of file from where chapter is added?(question)
+	-also tooltip appears as soon as we hover the mouse, there is no 2 sec delay as its expected
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+TOC view | Source documents section:
+	Source documents section:
+
+	-files with .markdown file extensions on git are not visible to the source view
+
+	-fix document preview in source doc section(info will be added)
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+ToC view | Drag and Drop (Connect "Source Documents" and "ToC"):
+	Drag and Drop:
+
+	- it's possible to drag and drop md file from source to toc and put it under other already drag and dropped md file structure
+	
+	- "</> Document root" heading should be fixed to the top of the ToC view and should not suggest drag and droping above him.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
