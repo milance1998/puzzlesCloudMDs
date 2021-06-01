@@ -1,6 +1,6 @@
-![version: 1.0](https://img.shields.io/badge/version-1.0-green.svg)
-![status: WIP](https://img.shields.io/badge/status-WIP-yellow.svg)
-
+title: UC3 Just testing
+weight: 3
+layout: docs
 
 
 # Edge Service
