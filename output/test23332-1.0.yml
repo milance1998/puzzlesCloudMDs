@@ -1,0 +1,118 @@
+chapters:
+- chapters:
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: |+
+          Font buttons:
+
+        path: markdown2-2.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: |+
+          Text Format:
+
+        path: markdown2-2.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: |+
+          Text Justification:
+
+        path: markdown2-2.md
+        type: MARKDOWN_CHAPTER_ITEM
+      name: |+
+        Formatted Text Examples
+
+      path: markdown2-2.md
+      type: MARKDOWN_CHAPTER_ITEM
+    - chapters:
+      - chapters:
+        - chapters: []
+          name: |+
+            I'll put it here
+
+          path: markdown2-2.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            And also here
+
+          path: markdown2-2.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            You know the process...
+
+          path: markdown2-2.md
+          type: MARKDOWN_CHAPTER_ITEM
+        name: |+
+          I just have to store some code here, if you don't mind
+
+        path: markdown2-2.md
+        type: MARKDOWN_CHAPTER_ITEM
+      name: |+
+        Useful markdown links:
+
+      path: markdown2-2.md
+      type: MARKDOWN_CHAPTER_ITEM
+    name: Markdown2-2
+    path: markdown2-2.md
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: no files folder
+        path: testing_folder/testing folder/testing subFolder/no files folder
+        type: FOLDER_CHAPTER
+      - chapters:
+        - chapters: []
+          name: |+
+            Heading 2
+
+          path: testing_folder/testing folder/testing subFolder/sameHeadingsTest.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Heading 2 (text1)
+
+          path: testing_folder/testing folder/testing subFolder/sameHeadingsTest.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Heading 2 (text2)
+
+          path: testing_folder/testing folder/testing subFolder/sameHeadingsTest.md
+          type: MARKDOWN_CHAPTER_ITEM
+        name: SameHeadingsTest
+        path: testing_folder/testing folder/testing subFolder/sameHeadingsTest.md
+        type: MARKDOWN_CHAPTER
+      name: testing subFolder
+      path: testing_folder/testing folder/testing subFolder
+      type: FOLDER_CHAPTER
+    - chapters:
+      - chapters:
+        - chapters: []
+          name: |+
+            Heading 3
+
+          path: testing_folder/testing folder/headingTest.md
+          type: MARKDOWN_CHAPTER_ITEM
+        name: |+
+          Heading 2
+
+        path: testing_folder/testing folder/headingTest.md
+        type: MARKDOWN_CHAPTER_ITEM
+      name: |+
+        Heading 1
+
+      path: testing_folder/testing folder/headingTest.md
+      type: MARKDOWN_CHAPTER
+    name: testing folder
+    path: testing_folder/testing folder
+    type: FOLDER_CHAPTER
+  name: testing_folder
+  path: testing_folder
+  type: FOLDER_CHAPTER
+name: ROOT
+path: null
+type: null
