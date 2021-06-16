@@ -1,0 +1,41 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: output
+    path: output
+    type: FOLDER_CHAPTER
+  - chapters: []
+    name: output
+    path: output
+    type: FOLDER_CHAPTER
+  - chapters: []
+    name: output
+    path: output
+    type: FOLDER_CHAPTER
+  - chapters: []
+    name: output
+    path: output
+    type: FOLDER_CHAPTER
+  name: hello
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  release-date: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  change-description: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-author: ''
+  File Name: test1.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
