@@ -1,8 +1,8 @@
 chapters:
 - chapters: []
-  name: hello
-  path: ''
-  type: MANUAL_CHAPTER
+  name: JustTesting
+  path: justTesting.markdown
+  type: MARKDOWN_CHAPTER
 fieldValues:
   doc-author-email: ''
   release-date: ''
