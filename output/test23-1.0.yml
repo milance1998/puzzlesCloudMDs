@@ -1,19 +1,7 @@
 chapters:
 - chapters: []
-  name: Just checking tables - heading 1
-  path: checkTable.md
-  type: MARKDOWN_CHAPTER
-- chapters: []
-  name: test2331
-  path: ''
-  type: MANUAL_CHAPTER
-- chapters: []
-  name: test
-  path: ''
-  type: MANUAL_CHAPTER
-- chapters: []
-  name: Markdown2-3
-  path: markdown2-3.md
+  name: Backticks
+  path: backticks.md
   type: MARKDOWN_CHAPTER
 fieldValues:
   doc-author-email: ''
