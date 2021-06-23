@@ -3,7 +3,11 @@ chapters:
   name: Markdown1-2
   path: markdown1-2.md
   type: MARKDOWN_CHAPTER
-- chapters: []
+- chapters:
+  - chapters: []
+    name: Markdown1
+    path: markdown1.md
+    type: MARKDOWN_CHAPTER
   name: output
   path: output
   type: FOLDER_CHAPTER
@@ -14,10 +18,10 @@ chapters:
 fieldValues:
   doc-author-email: ''
   release-date: ''
-  doc-type: ''
-  doc-subtitle: ''
+  doc-type: type
+  doc-subtitle: MILANCE
   doc-title: test
-  doc-company: ''
+  doc-company: doc date
   change-description: ''
   doc-company-url: ''
   doc-version: ''
