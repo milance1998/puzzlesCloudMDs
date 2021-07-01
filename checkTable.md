@@ -12,7 +12,6 @@
 | order-success-redirect-url | string | valid URL | Where the wirecard should redirect if payment was successfull | protect |
 | order-failed-redirect-url | string | valid URL | Where the wirecard should redirect if payment fails | protect |
 | order-canceled-redirect-url | string | valid URL | Where the wirecard should redirect if payment was canceled | protect |
-
 [this is caption of the first table]
 
 
@@ -22,5 +21,4 @@
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
-
 [caption of the second table]
