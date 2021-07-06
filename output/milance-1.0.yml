@@ -1,0 +1,65 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Markdown1
+    path: markdown1.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Reports
+    path: images/Reports
+    type: FOLDER_CHAPTER
+  - chapters: []
+    name: Markdown5
+    path: images/markdown5.md
+    type: MARKDOWN_CHAPTER
+  name: images
+  path: images
+  type: FOLDER_CHAPTER
+- chapters: []
+  name: Markdown4-3
+  path: markdown4-3.md
+  type: MARKDOWN_CHAPTER
+- chapters:
+  - chapters:
+    - chapters: []
+      name: Markdown4-3
+      path: markdown4-3.md
+      type: MARKDOWN_CHAPTER
+    name: VCS1
+    path: ''
+    type: MANUAL_CHAPTER
+  - chapters: []
+    name: Markdown1-2
+    path: markdown1-2.md
+    type: MARKDOWN_CHAPTER
+  name: VCS
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters:
+  - chapters: []
+    name: PluginMarkdown
+    path: pluginMarkdown.md
+    type: MARKDOWN_CHAPTER
+  name: Vcs13
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: testautemaoil
+  release-date: testdate
+  doc-type: test type
+  doc-subtitle: Test sub
+  doc-title: Test
+  doc-company: test com
+  change-description: testdesc
+  doc-company-url: test url
+  doc-version: testver
+  ' reference-doc-title ': testreftitle
+  doc-release-date: testreldate
+  doc-author: testautor
+  File Name: milance.docx
+  doc-author-name: testautoname
+  ' reference-doc-filename ': testrefdocfilename
+  doc-id: testid
+name: ROOT
+path: null
+type: null
