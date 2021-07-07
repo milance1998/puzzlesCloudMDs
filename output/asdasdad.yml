@@ -1,6 +1,14 @@
 chapters:
 - chapters:
   - chapters: []
+    name: puzzlesCloudMDs
+    path: READMEtest222.md
+    type: MARKDOWN_CHAPTER
+  name: testAfterPush
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters:
+  - chapters: []
     name: Markdown2-3
     path: markdown2-3.md
     type: MARKDOWN_CHAPTER
