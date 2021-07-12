@@ -1,9 +1,5 @@
 chapters:
 - chapters: []
-  name: Just checking tables - heading 1
-  path: checkTable.md
-  type: MARKDOWN_CHAPTER
-- chapters: []
   name: Backticks
   path: backticks.md
   type: MARKDOWN_CHAPTER
