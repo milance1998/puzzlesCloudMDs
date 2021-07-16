@@ -1,5 +1,9 @@
 chapters:
 - chapters: []
+  name: h1 Heading 8-)
+  path: markdown6.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
   name: Markdown5
   path: markdown5.md
   type: MARKDOWN_CHAPTER
