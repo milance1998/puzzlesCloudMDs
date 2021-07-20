@@ -1,0 +1,77 @@
+chapters:
+- chapters: []
+  name: Markdown2
+  path: markdown2.md
+  type: MARKDOWN_CHAPTER
+- chapters:
+  - chapters: []
+    name: Markdown3
+    path: markdown3.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: UC3 Just testing
+    path: markdown3-2.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Markdown3
+    path: markdown3.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Markdown3
+    path: markdown3.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Markdown3
+    path: markdown3.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Markdown3
+    path: markdown3.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Markdown2
+    path: markdown2.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Markdown3
+    path: markdown3.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: UC3 Just testing
+    path: markdown3-2.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: UC3 Just testing
+    path: markdown3-2.md
+    type: MARKDOWN_CHAPTER
+  name: test
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters: []
+  name: Markdown3
+  path: markdown3.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  name: Markdown1-2
+  path: markdown1-2.md
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  release-date: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  change-description: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-author: ''
+  File Name: asdasdasda.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
