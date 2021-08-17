@@ -1,0 +1,45 @@
+chapters:
+- chapters:
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: no files folder
+        path: testing_folder/testing folder/testing subFolder/no files folder
+        type: FOLDER_CHAPTER
+      - chapters: []
+        name: SameHeadingsTest
+        path: testing_folder/testing folder/testing subFolder/sameHeadingsTest.md
+        type: MARKDOWN_CHAPTER
+      name: testing subFolder
+      path: testing_folder/testing folder/testing subFolder
+      type: FOLDER_CHAPTER
+    - chapters: []
+      name: Heading 1
+      path: testing_folder/testing folder/headingTest.md
+      type: MARKDOWN_CHAPTER
+    name: testing folder
+    path: testing_folder/testing folder
+    type: FOLDER_CHAPTER
+  name: testing_folder
+  path: testing_folder
+  type: FOLDER_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  release-date: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  change-description: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-author: ''
+  File Name: deleteThis.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
