@@ -1,0 +1,27 @@
+chapters:
+- chapters: []
+  name: UC3 Just testing
+  path: markdown3-2.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  name: Markdown1
+  path: markdown1.md
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-change-description: ''
+  File Name: publishTestNew.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
