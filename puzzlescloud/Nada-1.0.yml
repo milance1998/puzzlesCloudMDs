@@ -1,0 +1,26 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Milance teeeeeeest
+    path: emojis.md
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters: []
+      name: Backticks
+      path: backticks.md
+      type: MARKDOWN_CHAPTER
+    name: Mini zaglavlje 1
+    path: ''
+    type: MANUAL_CHAPTER
+  name: Zaglavlje 1
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-release-date: 20.Maj.
+  doc-type: doc
+  doc-title: Test
+  File Name: Nada.docx
+  doc-version: '1.0'
+name: ROOT
+path: null
+type: null
