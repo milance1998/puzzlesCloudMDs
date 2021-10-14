@@ -1,0 +1,51 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Markdown1-2
+    path: markdown1-2.md
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters: []
+      name: Markdown2-3
+      path: markdown2-3.md
+      type: MARKDOWN_CHAPTER
+    - chapters:
+      - chapters: []
+        name: Markdown3
+        path: markdown3.md
+        type: MARKDOWN_CHAPTER
+      - chapters:
+        - chapters: []
+          name: Markdown5
+          path: markdown5.md
+          type: MARKDOWN_CHAPTER
+        name: test 5
+        path: ''
+        type: MANUAL_CHAPTER
+      name: test 4
+      path: ''
+      type: MANUAL_CHAPTER
+    name: test2
+    path: ''
+    type: MANUAL_CHAPTER
+  name: test123
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: test2
+  doc-type: test7
+  doc-subtitle: test6
+  doc-title: test
+  doc-company: test5
+  doc-company-url: test8
+  doc-version: test9
+  ' reference-doc-title ': test1
+  doc-release-date: test3
+  doc-change-description: test77
+  File Name: stagingTest6.docx
+  doc-author-name: test88
+  ' reference-doc-filename ': test66
+  doc-id: test4
+name: ROOT
+path: null
+type: null
