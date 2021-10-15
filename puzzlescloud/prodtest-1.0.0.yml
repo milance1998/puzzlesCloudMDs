@@ -1,0 +1,27 @@
+chapters:
+- chapters: []
+  name: puzzlesCloudMDs
+  path: README.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  name: Milance teeeeeeest
+  path: emojis.md
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-change-description: ''
+  File Name: prodtest.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
