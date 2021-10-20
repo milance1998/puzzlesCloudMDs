@@ -1,5 +1,3 @@
-# This is md file with coded UML diagram
-
 ---
 title: UC3 Work in our App and Publish Docs in GIT
 weight: 3
