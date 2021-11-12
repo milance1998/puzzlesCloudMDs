@@ -4,7 +4,7 @@
 
 
 # Edge Service
-12345
+123456
 The Edge Service provides the interface between the public REST API and internal AMQP API.
 
 
