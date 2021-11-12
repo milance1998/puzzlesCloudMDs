@@ -1,5 +1,9 @@
 chapters:
 - chapters: []
+  name: puzzlesCloudMDs
+  path: README.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
   name: Backticks
   path: backticks.md
   type: MARKDOWN_CHAPTER
