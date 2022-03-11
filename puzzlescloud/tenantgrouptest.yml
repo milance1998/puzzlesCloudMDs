@@ -1,5 +1,17 @@
 chapters:
 - chapters: []
+  folderName: milance1998-p123
+  name: UC1 Work in GIT and Produce DOCX & PDF
+  path: uc1-work-in-git-produce-docx-pdf.md
+  sourceURL: https://github.com/milance1998/puzzlesCloudMDs.git
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: milance1998-p123
+  name: h1 Heading 8-)
+  path: markdown6.md
+  sourceURL: https://github.com/milance1998/puzzlesCloudMDs.git
+  type: MARKDOWN_CHAPTER
+- chapters: []
   folderName: main
   name: Just checking tables - heading 1
   path: checkTable.md
